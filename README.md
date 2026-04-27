@@ -17,4 +17,8 @@
 ercapatti@gmail.com
 
 # Commit Snake 🐍
-![Snake animation](https://github.com/eduardo-capatti/eduardo-capatti/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-light.svg">
+  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/HeyyCzer/HeyyCzer/blob/output/github-snake-dark.svg">
+</picture>
