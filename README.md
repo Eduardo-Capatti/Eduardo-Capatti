@@ -16,4 +16,5 @@
 # Contact me ✉
 ercapatti@gmail.com
 
+# Commit Snake 🐍
 ![Snake animation](https://github.com/eduardo-capatti/eduardo-capatti/blob/output/github-contribution-grid-snake.svg)
