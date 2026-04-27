@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=eduardo-capatti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Capatti&show_icons=true&count_private=true&include_all_commits=true)
 
 # Contact me ✉
 ercapatti@gmail.com
