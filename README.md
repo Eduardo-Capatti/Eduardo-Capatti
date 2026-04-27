@@ -12,7 +12,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 # Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Capatti&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
+![GitHub Stats](https://github.com/Eduardo-Capatti/Eduardo-Capatti/blob/output/stats.svg)](https://github.com/Eduardo-Capatti)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Capatti&layout=compact&theme=tokyonight)
 
 # Contact me ✉
