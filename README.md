@@ -11,15 +11,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-# Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo-Capatti&layout=compact&theme=tokyonight)
 
 # Contact me ✉
 ercapatti@gmail.com
 
-# Commit Snake 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Eduardo-Capatti/Eduardo-Capatti/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Eduardo-Capatti/Eduardo-Capatti/blob/output/github-snake-light.svg">
-  <img alt="Shows a black logo in light color mode and a white one in dark color mode." src="https://github.com/Eduardo-Capatti/Eduardo-Capatti/blob/output/github-snake-dark.svg">
-</picture>
+
